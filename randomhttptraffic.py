@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+#Android Random HTTP Traffic 1.1
+#Author: Derek Banks
+# ToDo: Move from urllib2 to requests
+#       Use headless browser to process javascript
+
+
 '''
 Dowloads the majestic top one million database and extracts and opens a random URL for a set time interval.  
 '''
